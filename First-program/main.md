@@ -18,7 +18,7 @@ int main() { // starting of program
 	// statement for execution
 
 
-}; // ending of program
+} // ending of program
 
 
 # HOW COMP understand +ve & -ve values such as 2 & -2?
